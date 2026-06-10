@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ServerAPI\\Orfelin.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BibliosWPF\\Orfelin.WPF.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

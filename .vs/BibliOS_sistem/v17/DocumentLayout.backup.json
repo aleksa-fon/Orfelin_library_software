@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioscore\\models\\pozajmica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|solutionrelative:biblioscore\\models\\pozajmica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioscore\\services\\knjigaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|solutionrelative:biblioscore\\services\\knjigaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioscore\\models\\knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|solutionrelative:biblioscore\\models\\knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioscore\\services\\korisnikservisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|solutionrelative:biblioscore\\services\\korisnikservisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioscore\\models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|solutionrelative:biblioscore\\models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioscore\\services\\zaposleniservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|solutionrelative:biblioscore\\services\\zaposleniservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioscore\\models\\zaposleni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|solutionrelative:biblioscore\\models\\zaposleni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioscore\\services\\pozajmicaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|solutionrelative:biblioscore\\services\\pozajmicaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioscore\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|solutionrelative:biblioscore\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioscore\\interface\\iknjigaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|solutionrelative:biblioscore\\interface\\iknjigaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioscore\\orfelin.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|solutionrelative:biblioscore\\orfelin.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D593ED56-AC54-4527-9866-8CA4F27FDBA7}|ServerAPI\\Orfelin.API.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\serverapi\\orfelin.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D593ED56-AC54-4527-9866-8CA4F27FDBA7}|ServerAPI\\Orfelin.API.csproj|solutionrelative:serverapi\\orfelin.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E908DAFE-3C1C-422F-95D4-E78B13630012}|BibliosWPF\\Orfelin.WPF.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioswpf\\orfelin.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E908DAFE-3C1C-422F-95D4-E78B13630012}|BibliosWPF\\Orfelin.WPF.csproj|solutionrelative:biblioswpf\\orfelin.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioscore\\interface\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|solutionrelative:biblioscore\\interface\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,110 +38,81 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Knjiga.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Models\\Knjiga.cs",
-              "RelativeDocumentMoniker": "BibliosCORE\\Models\\Knjiga.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Models\\Knjiga.cs",
-              "RelativeToolTip": "BibliosCORE\\Models\\Knjiga.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBUAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Interface\\IGenericService.cs",
+              "RelativeDocumentMoniker": "BibliosCORE\\Interface\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Interface\\IGenericService.cs",
+              "RelativeToolTip": "BibliosCORE\\Interface\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T23:41:55.033Z",
+              "WhenOpened": "2026-06-11T00:12:04.854Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pozajmica.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Models\\Pozajmica.cs",
-              "RelativeDocumentMoniker": "BibliosCORE\\Models\\Pozajmica.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Models\\Pozajmica.cs",
-              "RelativeToolTip": "BibliosCORE\\Models\\Pozajmica.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Title": "KnjigaServices.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Services\\KnjigaServices.cs",
+              "RelativeDocumentMoniker": "BibliosCORE\\Services\\KnjigaServices.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Services\\KnjigaServices.cs",
+              "RelativeToolTip": "BibliosCORE\\Services\\KnjigaServices.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAArwBUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T23:41:16.224Z",
+              "WhenOpened": "2026-06-11T00:49:33.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Korisnik.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Models\\Korisnik.cs",
-              "RelativeDocumentMoniker": "BibliosCORE\\Models\\Korisnik.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Models\\Korisnik.cs",
-              "RelativeToolTip": "BibliosCORE\\Models\\Korisnik.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "KorisnikSERVISI.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Services\\KorisnikSERVISI.cs",
+              "RelativeDocumentMoniker": "BibliosCORE\\Services\\KorisnikSERVISI.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Services\\KorisnikSERVISI.cs",
+              "RelativeToolTip": "BibliosCORE\\Services\\KorisnikSERVISI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T23:39:07.87Z",
+              "WhenOpened": "2026-06-11T00:50:21.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Zaposleni.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Models\\Zaposleni.cs",
-              "RelativeDocumentMoniker": "BibliosCORE\\Models\\Zaposleni.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Models\\Zaposleni.cs",
-              "RelativeToolTip": "BibliosCORE\\Models\\Zaposleni.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Title": "PozajmicaServices.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Services\\PozajmicaServices.cs",
+              "RelativeDocumentMoniker": "BibliosCORE\\Services\\PozajmicaServices.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Services\\PozajmicaServices.cs",
+              "RelativeToolTip": "BibliosCORE\\Services\\PozajmicaServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T23:34:24.158Z",
+              "WhenOpened": "2026-06-11T00:44:56.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Orfelin.Core",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Orfelin.Core.csproj",
-              "RelativeDocumentMoniker": "BibliosCORE\\Orfelin.Core.csproj",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Orfelin.Core.csproj",
-              "RelativeToolTip": "BibliosCORE\\Orfelin.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-10T23:30:15.554Z",
+              "DocumentIndex": 2,
+              "Title": "ZaposleniServices.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Services\\ZaposleniServices.cs",
+              "RelativeDocumentMoniker": "BibliosCORE\\Services\\ZaposleniServices.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Services\\ZaposleniServices.cs",
+              "RelativeToolTip": "BibliosCORE\\Services\\ZaposleniServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T00:44:19.079Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Orfelin.API",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Orfelin.API.csproj",
-              "RelativeDocumentMoniker": "ServerAPI\\Orfelin.API.csproj",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Orfelin.API.csproj",
-              "RelativeToolTip": "ServerAPI\\Orfelin.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-10T23:30:09.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Orfelin.WPF",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\Orfelin.WPF.csproj",
-              "RelativeDocumentMoniker": "BibliosWPF\\Orfelin.WPF.csproj",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\Orfelin.WPF.csproj",
-              "RelativeToolTip": "BibliosWPF\\Orfelin.WPF.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-10T23:30:02.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "BibliosCORE\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "BibliosCORE\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Title": "IKnjigaService.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Interface\\IKnjigaService.cs",
+              "RelativeDocumentMoniker": "BibliosCORE\\Interface\\IKnjigaService.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Interface\\IKnjigaService.cs",
+              "RelativeToolTip": "BibliosCORE\\Interface\\IKnjigaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T23:08:02.91Z",
+              "WhenOpened": "2026-06-11T00:43:08.326Z",
               "EditorCaption": ""
             }
           ]

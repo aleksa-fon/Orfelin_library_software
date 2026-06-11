@@ -1,0 +1,14 @@
+C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\bin\Debug\net8.0\Orfelin.Core.deps.json
+C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\bin\Debug\net8.0\Orfelin.Core.runtimeconfig.json
+C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\bin\Debug\net8.0\Orfelin.Core.dll
+C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\bin\Debug\net8.0\Orfelin.Core.pdb
+C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\obj\Debug\net8.0\Orfelin.Core.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\obj\Debug\net8.0\Orfelin.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\obj\Debug\net8.0\Orfelin.Core.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\obj\Debug\net8.0\Orfelin.Core.AssemblyInfo.cs
+C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\obj\Debug\net8.0\Orfelin.Core.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\obj\Debug\net8.0\Orfelin.Core.dll
+C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\obj\Debug\net8.0\refint\Orfelin.Core.dll
+C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\obj\Debug\net8.0\Orfelin.Core.pdb
+C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\obj\Debug\net8.0\Orfelin.Core.genruntimeconfig.cache
+C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\obj\Debug\net8.0\ref\Orfelin.Core.dll

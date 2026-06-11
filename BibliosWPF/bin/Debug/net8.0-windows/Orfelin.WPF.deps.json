@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Orfelin.WPF/1.0.0": {
+        "runtime": {
+          "Orfelin.WPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Orfelin.WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

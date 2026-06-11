@@ -1,0 +1,23 @@
+﻿<Window x:Class="Orfelin.WPF.SplashScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Height="300" Width="500"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Background="#2C3E50">
+
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="ORFELIN" FontSize="48" FontWeight="Bold" 
+                       Foreground="White" HorizontalAlignment="Center"/>
+            <TextBlock Text="Sistem za upravljanje bibliotekom" FontSize="14"
+                       Foreground="#BDC3C7" HorizontalAlignment="Center" Margin="0,10,0,40"/>
+            <ProgressBar x:Name="progressBar" Height="4" Width="300"
+                         Background="#34495E" Foreground="White"
+                         Minimum="0" Maximum="100"/>
+            <TextBlock x:Name="txtStatus" Text="Pokretanje..." FontSize="12"
+                       Foreground="#BDC3C7" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

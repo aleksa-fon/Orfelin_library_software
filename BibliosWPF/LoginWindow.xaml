@@ -1,0 +1,35 @@
+﻿<Window x:Class="Orfelin.WPF.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Orfelin – Prijava" Height="420" Width="700"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+
+    <Grid Background="#F5F5F5" Margin="0,0,0,2">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="300">
+
+            <TextBlock Text="ORFELIN" FontSize="28" FontWeight="Bold" 
+                       HorizontalAlignment="Center" Foreground="#2C3E50" Margin="0,0,0,5" Height="47"/>
+
+            <TextBlock Text="Sistem za upravljanje bibliotekom" FontSize="12"
+                       HorizontalAlignment="Center" Foreground="#7F8C8D" Margin="0,0,0,30" Height="27"/>
+
+            <TextBlock Text="Korisničko ime" FontSize="13" Foreground="#2C3E50" Margin="0,0,0,5"/>
+            <TextBox x:Name="txtUsername" Height="38" Padding="10,8" FontSize="13"
+                     BorderBrush="#BDC3C7" BorderThickness="1"/>
+
+            <TextBlock Text="Lozinka" FontSize="13" Foreground="#2C3E50" Margin="0,15,0,5"/>
+            <PasswordBox x:Name="txtPassword" Height="38" Padding="10,8" FontSize="13"
+                         BorderBrush="#BDC3C7" BorderThickness="1"/>
+
+            <TextBlock x:Name="txtGreska" Foreground="Red" FontSize="12" 
+                       Margin="0,10,0,0" HorizontalAlignment="Center" Visibility="Collapsed"/>
+
+            <Button x:Name="btnPrijava" Content="Prijavi se" Height="42" Margin="0,20,0,0"
+                    Background="#2C3E50" Foreground="White" FontSize="14" FontWeight="Bold"
+                    BorderThickness="0" Cursor="Hand" Click="btnPrijava_Click"/>
+            <TextBlock Text="© JORIS 2026" FontSize="11" Foreground="#BDC3C7" 
+           HorizontalAlignment="Center" Margin="0,20,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

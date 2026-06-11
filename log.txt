@@ -1,0 +1,47 @@
+commit 7bce549be14e95578164225f02f0d190df74ba92
+Author: Aleksa Jevtić <aleksa.jevtic@fon.bg.ac.yu>
+Date:   Thu Jun 11 17:27:06 2026 +0200
+
+    Preimenovan solution
+
+commit 176aeb6458cf2efe629b9c2ff2e5518c9786d8b3
+Author: Aleksa Jevtić <aleksa.jevtic@fon.bg.ac.yu>
+Date:   Thu Jun 11 14:51:45 2026 +0200
+
+    Poslednji commit u dnevnom sprintu.
+
+commit ab1dcde680c92bea487d3d2b281b5a5a29d25f23
+Author: Aleksa Jevtić <aleksa.jevtic@fon.bg.ac.yu>
+Date:   Thu Jun 11 14:44:19 2026 +0200
+
+    Commmit posle testiranja kroz Swagger. Sve u potpunosti radi.
+
+commit 6d6d0fb4ac84c610652fbb422ef19bd83b22cc39
+Author: Aleksa Jevtić <aleksa.jevtic@fon.bg.ac.yu>
+Date:   Thu Jun 11 14:37:22 2026 +0200
+
+    Dodati kontroleri, sistem za login i root korisnik. Urađene migracije
+
+commit 7188b86ed2e2d9459f45375821a90e2ef9bba620
+Author: Aleksa Jevtić <aleksa.jevtic@fon.bg.ac.yu>
+Date:   Thu Jun 11 03:15:00 2026 +0200
+
+    Urađena prva migracija i registrovani servisi. Sutra nastavak kontroleri.
+
+commit 86190e12335675c10d2b81278e4c47cb2a090f0f
+Author: Aleksa Jevtić <aleksa.jevtic@fon.bg.ac.yu>
+Date:   Thu Jun 11 02:58:48 2026 +0200
+
+    Dodati interfejsi, implementacija i DB context
+
+commit 9347b9179b901c6d3388ad73bef5d6617020b1d1
+Author: Aleksa Jevtić <aleksa.jevtic@fon.bg.ac.yu>
+Date:   Thu Jun 11 01:51:48 2026 +0200
+
+    Dodati modeli zaposleni, korisnik, knjiga, pozajmica
+
+commit c503386a82839a3bfca7c7024547de13ba906575
+Author: Aleksa Jevtić <aleksa.jevtic@fon.bg.ac.yu>
+Date:   Thu Jun 11 01:27:31 2026 +0200
+
+    Inicijalni commit.

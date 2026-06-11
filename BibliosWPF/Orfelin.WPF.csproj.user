@@ -1,4 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="KnjigaDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="KnjigePage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="KorisnikDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="KorisnikPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PozajmicaDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PozajmicaPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SplashScreen.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ZaposleniDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ZaposleniPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
 </Project>

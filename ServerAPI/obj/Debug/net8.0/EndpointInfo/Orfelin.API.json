@@ -4,6 +4,715 @@
     "title": "Orfelin.API",
     "version": "1.0"
   },
-  "paths": { },
-  "components": { }
+  "paths": {
+    "/api/Auth/login": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Knjiga": {
+      "get": {
+        "tags": [
+          "Knjiga"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Knjiga"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Knjiga"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Knjiga"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Knjiga"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Knjiga"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Knjiga"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Knjiga"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Knjiga"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Knjiga/{id}": {
+      "get": {
+        "tags": [
+          "Knjiga"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Knjiga"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Korisnik": {
+      "get": {
+        "tags": [
+          "Korisnik"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Korisnik"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Korisnik"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Korisnik"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Korisnik"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Korisnik"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Korisnik"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Korisnik"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Korisnik"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Korisnik/{id}": {
+      "get": {
+        "tags": [
+          "Korisnik"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Korisnik"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Pozajmica": {
+      "get": {
+        "tags": [
+          "Pozajmica"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Pozajmica"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pozajmica"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pozajmica"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pozajmica"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Pozajmica"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pozajmica"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pozajmica"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pozajmica"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Pozajmica/{id}": {
+      "get": {
+        "tags": [
+          "Pozajmica"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Pozajmica"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Zaposleni": {
+      "get": {
+        "tags": [
+          "Zaposleni"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Zaposleni"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Zaposleni"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Zaposleni"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Zaposleni"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Zaposleni"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Zaposleni"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Zaposleni"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Zaposleni"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Zaposleni/{id}": {
+      "get": {
+        "tags": [
+          "Zaposleni"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Zaposleni"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Knjiga": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "vremeKreiranja": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "vremeIzmene": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "inventarniBroj": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "naslov": {
+            "type": "string",
+            "nullable": true
+          },
+          "autor": {
+            "type": "string",
+            "nullable": true
+          },
+          "izdavac": {
+            "type": "string",
+            "nullable": true
+          },
+          "godinaIzdavanja": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "zanr": {
+            "type": "string",
+            "nullable": true
+          },
+          "isbn": {
+            "type": "string",
+            "nullable": true
+          },
+          "brojStrana": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "dostupnoKopija": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "ukupanBrojKopija": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "datumNabavke": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Korisnik": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "vremeKreiranja": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "vremeIzmene": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "ime": {
+            "type": "string",
+            "nullable": true
+          },
+          "prezime": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "brojClanskeKarte": {
+            "type": "string",
+            "nullable": true
+          },
+          "datumClanstva": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "aktivan": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "LoginRequest": {
+        "type": "object",
+        "properties": {
+          "username": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Pozajmica": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "vremeKreiranja": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "vremeIzmene": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "knjigaId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "knjiga": {
+            "$ref": "#/components/schemas/Knjiga"
+          },
+          "korisnikId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "korisnik": {
+            "$ref": "#/components/schemas/Korisnik"
+          },
+          "zaposleni": {
+            "$ref": "#/components/schemas/Zaposleni"
+          },
+          "zaposleniId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "rokVracanja": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "datumPozajmice": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "datumVracanja": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "status": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Zaposleni": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "vremeKreiranja": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "vremeIzmene": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "ime": {
+            "type": "string",
+            "nullable": true
+          },
+          "prezime": {
+            "type": "string",
+            "nullable": true
+          },
+          "username": {
+            "type": "string",
+            "nullable": true
+          },
+          "passwordHash": {
+            "type": "string",
+            "nullable": true
+          },
+          "uloga": {
+            "type": "string",
+            "nullable": true
+          },
+          "aktivan": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
 }

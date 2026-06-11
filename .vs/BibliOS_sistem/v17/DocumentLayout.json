@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Migrations\\20260611123433_DodavanjeRootKorisnika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ServerAPI\\Migrations\\20260611123433_DodavanjeRootKorisnika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D593ED56-AC54-4527-9866-8CA4F27FDBA7}|ServerAPI\\Orfelin.API.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\serverapi\\migrations\\20260611123433_dodavanjerootkorisnika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D593ED56-AC54-4527-9866-8CA4F27FDBA7}|ServerAPI\\Orfelin.API.csproj|solutionrelative:serverapi\\migrations\\20260611123433_dodavanjerootkorisnika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B99CF2D8-2A0E-44FD-A16A-9A9A2DECC677}|BibliosCORE\\Orfelin.Core.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioscore\\data\\orfelincontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -76,7 +76,7 @@
               "RelativeDocumentMoniker": "ServerAPI\\Migrations\\20260611123433_DodavanjeRootKorisnika.cs",
               "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Migrations\\20260611123433_DodavanjeRootKorisnika.cs",
               "RelativeToolTip": "ServerAPI\\Migrations\\20260611123433_DodavanjeRootKorisnika.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T12:34:33.231Z",
               "EditorCaption": ""
@@ -227,7 +227,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Orfelin.API",
+              "Title": "Orfelin.API.csproj",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Orfelin.API.csproj",
               "RelativeDocumentMoniker": "ServerAPI\\Orfelin.API.csproj",
               "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Orfelin.API.csproj",

@@ -1,1 +1,314 @@
-[]
+[
+  {
+    "ContainingType": "Orfelin.API.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Orfelin.Core.DTO.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.KnjigaController",
+    "Method": "GetAll",
+    "RelativePath": "api/Knjiga",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.KnjigaController",
+    "Method": "Add",
+    "RelativePath": "api/Knjiga",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "knjiga",
+        "Type": "Orfelin.Core.Models.Knjiga",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.KnjigaController",
+    "Method": "Update",
+    "RelativePath": "api/Knjiga",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "knjiga",
+        "Type": "Orfelin.Core.Models.Knjiga",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.KnjigaController",
+    "Method": "GetById",
+    "RelativePath": "api/Knjiga/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.KnjigaController",
+    "Method": "Delete",
+    "RelativePath": "api/Knjiga/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.KorisnikController",
+    "Method": "GetAll",
+    "RelativePath": "api/Korisnik",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.KorisnikController",
+    "Method": "Add",
+    "RelativePath": "api/Korisnik",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "korisnik",
+        "Type": "Orfelin.Core.Models.Korisnik",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.KorisnikController",
+    "Method": "Update",
+    "RelativePath": "api/Korisnik",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "korisnik",
+        "Type": "Orfelin.Core.Models.Korisnik",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.KorisnikController",
+    "Method": "GetById",
+    "RelativePath": "api/Korisnik/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.KorisnikController",
+    "Method": "Delete",
+    "RelativePath": "api/Korisnik/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.PozajmicaController",
+    "Method": "GetAll",
+    "RelativePath": "api/Pozajmica",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.PozajmicaController",
+    "Method": "Add",
+    "RelativePath": "api/Pozajmica",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pozajmica",
+        "Type": "Orfelin.Core.Models.Pozajmica",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.PozajmicaController",
+    "Method": "Update",
+    "RelativePath": "api/Pozajmica",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pozajmica",
+        "Type": "Orfelin.Core.Models.Pozajmica",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.PozajmicaController",
+    "Method": "GetById",
+    "RelativePath": "api/Pozajmica/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.PozajmicaController",
+    "Method": "Delete",
+    "RelativePath": "api/Pozajmica/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.ZaposleniController",
+    "Method": "GetAll",
+    "RelativePath": "api/Zaposleni",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.ZaposleniController",
+    "Method": "Add",
+    "RelativePath": "api/Zaposleni",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "zaposleni",
+        "Type": "Orfelin.Core.Models.Zaposleni",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.ZaposleniController",
+    "Method": "Update",
+    "RelativePath": "api/Zaposleni",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "zaposleni",
+        "Type": "Orfelin.Core.Models.Zaposleni",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.ZaposleniController",
+    "Method": "GetById",
+    "RelativePath": "api/Zaposleni/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Orfelin.API.Controllers.ZaposleniController",
+    "Method": "Delete",
+    "RelativePath": "api/Zaposleni/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Orfelin.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d10c1613be6b73cd3f906f063a8c445dd69508ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a615c0b7de14e448666f41cfcffd7a8a8d956040")]
 [assembly: System.Reflection.AssemblyProductAttribute("Orfelin.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Orfelin.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

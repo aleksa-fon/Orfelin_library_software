@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E908DAFE-3C1C-422F-95D4-E78B13630012}|BibliosWPF\\Orfelin.WPF.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioswpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E908DAFE-3C1C-422F-95D4-E78B13630012}|BibliosWPF\\Orfelin.WPF.csproj|solutionrelative:biblioswpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -171,6 +175,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BibliosWPF\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\App.xaml.cs",
+              "RelativeToolTip": "BibliosWPF\\App.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T23:06:31.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -183,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "KorisnikPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\KorisnikPage.xaml.cs",
               "RelativeDocumentMoniker": "BibliosWPF\\KorisnikPage.xaml.cs",
@@ -191,12 +208,11 @@
               "RelativeToolTip": "BibliosWPF\\KorisnikPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T22:40:06.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T22:40:06.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "KorisnikPage.xaml",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\KorisnikPage.xaml",
               "RelativeDocumentMoniker": "BibliosWPF\\KorisnikPage.xaml",
@@ -207,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "BibliosWPF\\MainWindow.xaml",
@@ -218,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "BibliosWPF\\LoginWindow.xaml",
@@ -229,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "KnjigaDialog.xaml",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\KnjigaDialog.xaml",
               "RelativeDocumentMoniker": "BibliosWPF\\KnjigaDialog.xaml",
@@ -240,18 +256,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\App.xaml",
               "RelativeDocumentMoniker": "BibliosWPF\\App.xaml",
               "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\App.xaml",
               "RelativeToolTip": "BibliosWPF\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-11T22:33:56.869Z"
+              "WhenOpened": "2026-06-11T22:33:56.869Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ZaposleniDialog.xaml",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\ZaposleniDialog.xaml",
               "RelativeDocumentMoniker": "BibliosWPF\\ZaposleniDialog.xaml",
@@ -262,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SplashScreen.xaml.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\SplashScreen.xaml.cs",
               "RelativeDocumentMoniker": "BibliosWPF\\SplashScreen.xaml.cs",
@@ -274,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "KorisnikDialog.xaml",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\KorisnikDialog.xaml",
               "RelativeDocumentMoniker": "BibliosWPF\\KorisnikDialog.xaml",
@@ -285,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PozajmicaDialog.xaml",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\PozajmicaDialog.xaml",
               "RelativeDocumentMoniker": "BibliosWPF\\PozajmicaDialog.xaml",
@@ -296,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "SplashScreen.xaml",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\SplashScreen.xaml",
               "RelativeDocumentMoniker": "BibliosWPF\\SplashScreen.xaml",
@@ -307,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PozajmicaDialog.xaml.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\PozajmicaDialog.xaml.cs",
               "RelativeDocumentMoniker": "BibliosWPF\\PozajmicaDialog.xaml.cs",
@@ -315,12 +332,11 @@
               "RelativeToolTip": "BibliosWPF\\PozajmicaDialog.xaml.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAUwDMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T22:28:55.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T22:28:55.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "PozajmicaPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\PozajmicaPage.xaml.cs",
               "RelativeDocumentMoniker": "BibliosWPF\\PozajmicaPage.xaml.cs",
@@ -328,12 +344,11 @@
               "RelativeToolTip": "BibliosWPF\\PozajmicaPage.xaml.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAUwGIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T22:28:08.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T22:28:08.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "PozajmicaPage.xaml",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\PozajmicaPage.xaml",
               "RelativeDocumentMoniker": "BibliosWPF\\PozajmicaPage.xaml",
@@ -344,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ZaposleniDialog.xaml.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\ZaposleniDialog.xaml.cs",
               "RelativeDocumentMoniker": "BibliosWPF\\ZaposleniDialog.xaml.cs",
@@ -352,12 +367,11 @@
               "RelativeToolTip": "BibliosWPF\\ZaposleniDialog.xaml.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAUwEsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T22:27:04.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T22:27:04.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ZaposleniPage.xaml",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\ZaposleniPage.xaml",
               "RelativeDocumentMoniker": "BibliosWPF\\ZaposleniPage.xaml",
@@ -368,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ZaposleniPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\ZaposleniPage.xaml.cs",
               "RelativeDocumentMoniker": "BibliosWPF\\ZaposleniPage.xaml.cs",
@@ -376,12 +390,11 @@
               "RelativeToolTip": "BibliosWPF\\ZaposleniPage.xaml.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAADgv0wAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T22:25:57.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T22:25:57.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "KorisnikDialog.xaml.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\KorisnikDialog.xaml.cs",
               "RelativeDocumentMoniker": "BibliosWPF\\KorisnikDialog.xaml.cs",
@@ -389,12 +402,11 @@
               "RelativeToolTip": "BibliosWPF\\KorisnikDialog.xaml.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAUwEgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T22:25:15.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T22:25:15.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "KnjigePage.xaml",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\KnjigePage.xaml",
               "RelativeDocumentMoniker": "BibliosWPF\\KnjigePage.xaml",
@@ -405,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Orfelin.API.csproj",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Orfelin.API.csproj",
               "RelativeDocumentMoniker": "ServerAPI\\Orfelin.API.csproj",
@@ -417,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "LoginResponse.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\DTO\\LoginResponse.cs",
               "RelativeDocumentMoniker": "BibliosCORE\\DTO\\LoginResponse.cs",
@@ -429,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Zaposleni.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Models\\Zaposleni.cs",
               "RelativeDocumentMoniker": "BibliosCORE\\Models\\Zaposleni.cs",
@@ -441,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Pozajmica.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Models\\Pozajmica.cs",
               "RelativeDocumentMoniker": "BibliosCORE\\Models\\Pozajmica.cs",
@@ -453,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\DTO\\LoginRequest.cs",
               "RelativeDocumentMoniker": "BibliosCORE\\DTO\\LoginRequest.cs",
@@ -465,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Interface\\IAuthService.cs",
               "RelativeDocumentMoniker": "BibliosCORE\\Interface\\IAuthService.cs",
@@ -477,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "AuthServices.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Services\\AuthServices.cs",
               "RelativeDocumentMoniker": "BibliosCORE\\Services\\AuthServices.cs",
@@ -489,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "KorisnikController.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Controllers\\KorisnikController.cs",
               "RelativeDocumentMoniker": "ServerAPI\\Controllers\\KorisnikController.cs",
@@ -501,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "KnjigaController.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Controllers\\KnjigaController.cs",
               "RelativeDocumentMoniker": "ServerAPI\\Controllers\\KnjigaController.cs",
@@ -513,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Korisnik.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Models\\Korisnik.cs",
               "RelativeDocumentMoniker": "BibliosCORE\\Models\\Korisnik.cs",
@@ -525,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Knjiga.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Models\\Knjiga.cs",
               "RelativeDocumentMoniker": "BibliosCORE\\Models\\Knjiga.cs",
@@ -537,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "ServerAPI\\Controllers\\AuthController.cs",
@@ -549,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "OrfelinContext.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Data\\OrfelinContext.cs",
               "RelativeDocumentMoniker": "BibliosCORE\\Data\\OrfelinContext.cs",
@@ -561,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "20260611123433_DodavanjeRootKorisnika.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Migrations\\20260611123433_DodavanjeRootKorisnika.cs",
               "RelativeDocumentMoniker": "ServerAPI\\Migrations\\20260611123433_DodavanjeRootKorisnika.cs",
@@ -573,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ServerAPI\\Properties\\launchSettings.json",
@@ -585,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Program.cs",
               "RelativeDocumentMoniker": "ServerAPI\\Program.cs",
@@ -597,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "KnjigaServices.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Services\\KnjigaServices.cs",
               "RelativeDocumentMoniker": "BibliosCORE\\Services\\KnjigaServices.cs",
@@ -609,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "ZaposleniController.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Controllers\\ZaposleniController.cs",
               "RelativeDocumentMoniker": "ServerAPI\\Controllers\\ZaposleniController.cs",
@@ -621,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "PozajmicaController.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Controllers\\PozajmicaController.cs",
               "RelativeDocumentMoniker": "ServerAPI\\Controllers\\PozajmicaController.cs",

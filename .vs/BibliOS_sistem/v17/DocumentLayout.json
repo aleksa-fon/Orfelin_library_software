@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E908DAFE-3C1C-422F-95D4-E78B13630012}|BibliosWPF\\Orfelin.WPF.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioswpf\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E908DAFE-3C1C-422F-95D4-E78B13630012}|BibliosWPF\\Orfelin.WPF.csproj|solutionrelative:biblioswpf\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D593ED56-AC54-4527-9866-8CA4F27FDBA7}|ServerAPI\\Orfelin.API.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\serverapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D593ED56-AC54-4527-9866-8CA4F27FDBA7}|ServerAPI\\Orfelin.API.csproj|solutionrelative:serverapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E908DAFE-3C1C-422F-95D4-E78B13630012}|BibliosWPF\\Orfelin.WPF.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\biblioswpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E908DAFE-3C1C-422F-95D4-E78B13630012}|BibliosWPF\\Orfelin.WPF.csproj|solutionrelative:biblioswpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D593ED56-AC54-4527-9866-8CA4F27FDBA7}|ServerAPI\\Orfelin.API.csproj|c:\\users\\aleks\\desktop\\fon\\jezici i okru\u017Eenja za razvoj is\\biblios_projekat\\biblios_sistem\\serverapi\\migrations\\20260611123433_dodavanjerootkorisnika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D593ED56-AC54-4527-9866-8CA4F27FDBA7}|ServerAPI\\Orfelin.API.csproj|solutionrelative:serverapi\\migrations\\20260611123433_dodavanjerootkorisnika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -66,11 +78,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ServerAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ServerAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-11T12:47:41.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "BibliosWPF\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\Services\\ApiService.cs",
+              "RelativeToolTip": "BibliosWPF\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T12:46:30.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\App.xaml",
+              "RelativeDocumentMoniker": "BibliosWPF\\App.xaml",
+              "ToolTip": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosWPF\\App.xaml",
+              "RelativeToolTip": "BibliosWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-11T12:45:45.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "20260611123433_DodavanjeRootKorisnika.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Migrations\\20260611123433_DodavanjeRootKorisnika.cs",
               "RelativeDocumentMoniker": "ServerAPI\\Migrations\\20260611123433_DodavanjeRootKorisnika.cs",
@@ -83,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "OrfelinContext.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Data\\OrfelinContext.cs",
               "RelativeDocumentMoniker": "BibliosCORE\\Data\\OrfelinContext.cs",
@@ -91,12 +141,11 @@
               "RelativeToolTip": "BibliosCORE\\Data\\OrfelinContext.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA1wCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T12:28:33.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T12:28:33.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "ServerAPI\\Controllers\\AuthController.cs",
@@ -104,12 +153,11 @@
               "RelativeToolTip": "ServerAPI\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwAQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T12:17:42.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T12:17:42.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Program.cs",
               "RelativeDocumentMoniker": "ServerAPI\\Program.cs",
@@ -117,12 +165,11 @@
               "RelativeToolTip": "ServerAPI\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwB0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T12:16:05.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T12:16:05.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "KnjigaServices.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Services\\KnjigaServices.cs",
               "RelativeDocumentMoniker": "BibliosCORE\\Services\\KnjigaServices.cs",
@@ -130,12 +177,11 @@
               "RelativeToolTip": "BibliosCORE\\Services\\KnjigaServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T12:06:11.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T12:06:11.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "AuthServices.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Services\\AuthServices.cs",
               "RelativeDocumentMoniker": "BibliosCORE\\Services\\AuthServices.cs",
@@ -143,12 +189,11 @@
               "RelativeToolTip": "BibliosCORE\\Services\\AuthServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T12:03:47.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T12:03:47.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\Interface\\IAuthService.cs",
               "RelativeDocumentMoniker": "BibliosCORE\\Interface\\IAuthService.cs",
@@ -156,12 +201,11 @@
               "RelativeToolTip": "BibliosCORE\\Interface\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T12:02:10.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T12:02:10.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "LoginResponse.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\DTO\\LoginResponse.cs",
               "RelativeDocumentMoniker": "BibliosCORE\\DTO\\LoginResponse.cs",
@@ -169,12 +213,11 @@
               "RelativeToolTip": "BibliosCORE\\DTO\\LoginResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T12:00:02.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T12:00:02.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\BibliosCORE\\DTO\\LoginRequest.cs",
               "RelativeDocumentMoniker": "BibliosCORE\\DTO\\LoginRequest.cs",
@@ -182,12 +225,11 @@
               "RelativeToolTip": "BibliosCORE\\DTO\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T11:59:25.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T11:59:25.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "ZaposleniController.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Controllers\\ZaposleniController.cs",
               "RelativeDocumentMoniker": "ServerAPI\\Controllers\\ZaposleniController.cs",
@@ -195,12 +237,11 @@
               "RelativeToolTip": "ServerAPI\\Controllers\\ZaposleniController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T11:54:18.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T11:54:18.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "PozajmicaController.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Controllers\\PozajmicaController.cs",
               "RelativeDocumentMoniker": "ServerAPI\\Controllers\\PozajmicaController.cs",
@@ -208,12 +249,11 @@
               "RelativeToolTip": "ServerAPI\\Controllers\\PozajmicaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T11:53:59.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T11:53:59.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "KorisnikController.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Controllers\\KorisnikController.cs",
               "RelativeDocumentMoniker": "ServerAPI\\Controllers\\KorisnikController.cs",
@@ -221,12 +261,11 @@
               "RelativeToolTip": "ServerAPI\\Controllers\\KorisnikController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAADwvzUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T11:53:47.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T11:53:47.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Orfelin.API.csproj",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Orfelin.API.csproj",
               "RelativeDocumentMoniker": "ServerAPI\\Orfelin.API.csproj",
@@ -234,12 +273,11 @@
               "RelativeToolTip": "ServerAPI\\Orfelin.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-11T11:52:36.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T11:52:36.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "KnjigaController.cs",
               "DocumentMoniker": "C:\\Users\\aleks\\Desktop\\FON\\JEZICI I OKRU\u017DENJA ZA RAZVOJ IS\\BIBLIOS_projekat\\BibliOS_sistem\\ServerAPI\\Controllers\\KnjigaController.cs",
               "RelativeDocumentMoniker": "ServerAPI\\Controllers\\KnjigaController.cs",
@@ -247,8 +285,7 @@
               "RelativeToolTip": "ServerAPI\\Controllers\\KnjigaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T11:53:28.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T11:53:28.853Z"
             }
           ]
         }

@@ -108,7 +108,7 @@ namespace Orfelin.WPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Orfelin.WPF;component/zaposlenidialog.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Orfelin.WPF;V1.0.0.0;component/zaposlenidialog.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ZaposleniDialog.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

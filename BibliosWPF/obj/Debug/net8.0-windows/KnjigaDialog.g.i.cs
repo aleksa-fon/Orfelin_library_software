@@ -132,7 +132,7 @@ namespace Orfelin.WPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Orfelin.WPF;component/knjigadialog.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Orfelin.WPF;V1.0.0.0;component/knjigadialog.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\KnjigaDialog.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

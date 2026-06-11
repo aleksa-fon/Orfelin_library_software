@@ -16,8 +16,11 @@ namespace Orfelin.WPF.Services
 
         public ApiService()
         {
-            _httpClient = new HttpClient();
-            _httpClient.BaseAddress = new Uri("https://localhost:7240/api/");
+            var handler = new HttpClientHandler();
+            handler.ServerCertificateCustomValidationCallback =
+                HttpClientHandler.DangerousAcceptAnyServerCertificateValidator;
+            _httpClient = new HttpClient(handler);
+            _httpClient.BaseAddress = new Uri("http://localhost:5000/api/");
         }
 
         public async Task<LoginResponse?> Login(string username, string password)

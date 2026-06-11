@@ -129,10 +129,10 @@ C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\Bib
 C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\ServerAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\ServerAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\ServerAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\ServerAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\ServerAPI\obj\Debug\net8.0\Orfelin..1E112A8F.Up2Date
 C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\ServerAPI\obj\Debug\net8.0\Orfelin.API.dll
 C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\ServerAPI\obj\Debug\net8.0\refint\Orfelin.API.dll
 C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\ServerAPI\obj\Debug\net8.0\Orfelin.API.pdb
 C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\ServerAPI\obj\Debug\net8.0\Orfelin.API.genruntimeconfig.cache
 C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\ServerAPI\obj\Debug\net8.0\ref\Orfelin.API.dll
+C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\ServerAPI\obj\Debug\net8.0\Orfelin.API.sourcelink.json

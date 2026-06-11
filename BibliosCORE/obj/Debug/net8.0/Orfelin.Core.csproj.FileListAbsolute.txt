@@ -12,3 +12,4 @@ C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\Bib
 C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\obj\Debug\net8.0\Orfelin.Core.pdb
 C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\obj\Debug\net8.0\Orfelin.Core.genruntimeconfig.cache
 C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\obj\Debug\net8.0\ref\Orfelin.Core.dll
+C:\Users\aleks\Desktop\FON\JEZICI I OKRUŽENJA ZA RAZVOJ IS\BIBLIOS_projekat\BibliOS_sistem\BibliosCORE\obj\Debug\net8.0\Orfelin.Core.sourcelink.json

@@ -32,19 +32,28 @@ namespace Orfelin.WPF
             btnPrijava.IsEnabled = false;
             txtGreska.Visibility = Visibility.Collapsed;
 
-            var response = await _apiService.Login(txtUsername.Text, txtPassword.Password);
-
-            if (response == null || !response.Success)
+            try
             {
-                txtGreska.Text = "Pogrešno korisničko ime ili lozinka!";
+                var response = await _apiService.Login(txtUsername.Text, txtPassword.Password);
+
+                if (response == null || !response.Success)
+                {
+                    txtGreska.Text = response?.Message ?? "Ne mogu da se povežem sa serverom!";
+                    txtGreska.Visibility = Visibility.Visible;
+                    btnPrijava.IsEnabled = true;
+                    return;
+                }
+
+                var mainWindow = new MainWindow(response);
+                mainWindow.Show();
+                this.Close();
+            }
+            catch (Exception ex)
+            {
+                txtGreska.Text = $"Greška: {ex.Message}";
                 txtGreska.Visibility = Visibility.Visible;
                 btnPrijava.IsEnabled = true;
-                return;
             }
-
-            var mainWindow = new MainWindow(response);
-            mainWindow.Show();
-            this.Close();
         }
     }
 }

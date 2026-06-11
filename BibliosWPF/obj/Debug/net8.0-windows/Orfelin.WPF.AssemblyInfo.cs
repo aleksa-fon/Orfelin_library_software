@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Orfelin.WPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bce549be14e95578164225f02f0d190df74ba92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78dd4199e778bd5039ed99ec561860d12e22d7ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("Orfelin.WPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Orfelin.WPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

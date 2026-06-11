@@ -17,6 +17,7 @@ namespace Orfelin.Core.Services
         {
             _context = context;
         }
+
         public async Task<IEnumerable<Knjiga>> GetAll()
         {
             return await _context.Knjige.ToListAsync();

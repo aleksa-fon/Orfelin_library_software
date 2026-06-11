@@ -27,6 +27,7 @@ namespace ServerAPI
             builder.Services.AddScoped<IKorisnikService, KorisnikSERVISI>();
             builder.Services.AddScoped<IZaposleniService, ZaposleniService>();
             builder.Services.AddScoped<IPozajmicaService, PozajmicaService>();
+            builder.Services.AddScoped<IAuthService, AuthServices>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
